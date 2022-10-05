@@ -7,6 +7,7 @@ public class App {
     //todo Task 1
     public void largestNumber(){
         // input your solution here
+        System.out.println("hello");
     }
 
     //todo Task 2
@@ -39,7 +40,7 @@ public class App {
 
         System.out.println("Task 1: Largest Number");
         exercise2.largestNumber();
-
+/*
         System.out.println("\nTask 2: Stairs");
         exercise2.stairs();
 
@@ -54,5 +55,7 @@ public class App {
 
         System.out.println("\nTask 6: Fröhliche Zahlen");
         exercise2.happyNumbers();
+
+ */
     }
 }
